@@ -1,11 +1,11 @@
 <template>
-    <li>{{ todo.text }}</li>
+    <li></li>
 </template>
 
-<script>
+<!-- <script>
 export default {
     props: {
         todo: Object
     }
 }
-</script>
+</script> -->

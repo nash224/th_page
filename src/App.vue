@@ -24,6 +24,11 @@ export default {
 
 
 <style>
+@font-face {
+  font-family: Moderat;
+  src: url('@/font/Moderat-Medium/Moderat-Medium.ttf');
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
